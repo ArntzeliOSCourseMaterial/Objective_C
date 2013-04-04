@@ -18,6 +18,21 @@
 		C45BB440170DC51F001E8EE2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C45BB43F170DC51F001E8EE2 /* Default-568h@2x.png */; };
 		C45BB443170DC51F001E8EE2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB442170DC51F001E8EE2 /* ViewController.m */; };
 		C45BB446170DC51F001E8EE2 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB444170DC51F001E8EE2 /* ViewController.xib */; };
+		C45BB44F170DC563001E8EE2 /* Assignments.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB44E170DC563001E8EE2 /* Assignments.m */; };
+		C45BB454170DC5FE001E8EE2 /* CustomClassViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB452170DC5FE001E8EE2 /* CustomClassViewController.m */; };
+		C45BB455170DC5FE001E8EE2 /* CustomClassViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB453170DC5FE001E8EE2 /* CustomClassViewController.xib */; };
+		C45BB45C170DC751001E8EE2 /* Bird.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB45B170DC751001E8EE2 /* Bird.m */; };
+		C45BB45F170DC775001E8EE2 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB45E170DC775001E8EE2 /* Car.m */; };
+		C45BB464170DC823001E8EE2 /* ControlFlowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB462170DC823001E8EE2 /* ControlFlowViewController.m */; };
+		C45BB465170DC823001E8EE2 /* ControlFlowViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB463170DC823001E8EE2 /* ControlFlowViewController.xib */; };
+		C45BB46A170DC875001E8EE2 /* DictionariesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB468170DC875001E8EE2 /* DictionariesViewController.m */; };
+		C45BB46B170DC875001E8EE2 /* DictionariesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB469170DC875001E8EE2 /* DictionariesViewController.xib */; };
+		C45BB470170DC958001E8EE2 /* MethodsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB46E170DC958001E8EE2 /* MethodsViewController.m */; };
+		C45BB471170DC958001E8EE2 /* MethodsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB46F170DC958001E8EE2 /* MethodsViewController.xib */; };
+		C45BB476170DC9C1001E8EE2 /* ObjectsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB474170DC9C1001E8EE2 /* ObjectsViewController.m */; };
+		C45BB477170DC9C1001E8EE2 /* ObjectsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB475170DC9C1001E8EE2 /* ObjectsViewController.xib */; };
+		C45BB47C170DCA39001E8EE2 /* PrimitivesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C45BB47A170DCA39001E8EE2 /* PrimitivesViewController.m */; };
+		C45BB47D170DCA39001E8EE2 /* PrimitivesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C45BB47B170DCA39001E8EE2 /* PrimitivesViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +52,30 @@
 		C45BB441170DC51F001E8EE2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C45BB442170DC51F001E8EE2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C45BB445170DC51F001E8EE2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		C45BB44D170DC563001E8EE2 /* Assignments.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Assignments.h; sourceTree = "<group>"; };
+		C45BB44E170DC563001E8EE2 /* Assignments.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Assignments.m; sourceTree = "<group>"; };
+		C45BB451170DC5FE001E8EE2 /* CustomClassViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomClassViewController.h; sourceTree = "<group>"; };
+		C45BB452170DC5FE001E8EE2 /* CustomClassViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomClassViewController.m; sourceTree = "<group>"; };
+		C45BB453170DC5FE001E8EE2 /* CustomClassViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomClassViewController.xib; sourceTree = "<group>"; };
+		C45BB45A170DC750001E8EE2 /* Bird.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bird.h; sourceTree = "<group>"; };
+		C45BB45B170DC751001E8EE2 /* Bird.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bird.m; sourceTree = "<group>"; };
+		C45BB45D170DC775001E8EE2 /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		C45BB45E170DC775001E8EE2 /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
+		C45BB461170DC823001E8EE2 /* ControlFlowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlFlowViewController.h; sourceTree = "<group>"; };
+		C45BB462170DC823001E8EE2 /* ControlFlowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControlFlowViewController.m; sourceTree = "<group>"; };
+		C45BB463170DC823001E8EE2 /* ControlFlowViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ControlFlowViewController.xib; sourceTree = "<group>"; };
+		C45BB467170DC875001E8EE2 /* DictionariesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DictionariesViewController.h; sourceTree = "<group>"; };
+		C45BB468170DC875001E8EE2 /* DictionariesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DictionariesViewController.m; sourceTree = "<group>"; };
+		C45BB469170DC875001E8EE2 /* DictionariesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DictionariesViewController.xib; sourceTree = "<group>"; };
+		C45BB46D170DC958001E8EE2 /* MethodsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MethodsViewController.h; sourceTree = "<group>"; };
+		C45BB46E170DC958001E8EE2 /* MethodsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MethodsViewController.m; sourceTree = "<group>"; };
+		C45BB46F170DC958001E8EE2 /* MethodsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MethodsViewController.xib; sourceTree = "<group>"; };
+		C45BB473170DC9C1001E8EE2 /* ObjectsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectsViewController.h; sourceTree = "<group>"; };
+		C45BB474170DC9C1001E8EE2 /* ObjectsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectsViewController.m; sourceTree = "<group>"; };
+		C45BB475170DC9C1001E8EE2 /* ObjectsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ObjectsViewController.xib; sourceTree = "<group>"; };
+		C45BB479170DCA39001E8EE2 /* PrimitivesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrimitivesViewController.h; sourceTree = "<group>"; };
+		C45BB47A170DCA39001E8EE2 /* PrimitivesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrimitivesViewController.m; sourceTree = "<group>"; };
+		C45BB47B170DCA39001E8EE2 /* PrimitivesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PrimitivesViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +96,13 @@
 			isa = PBXGroup;
 			children = (
 				C45BB42F170DC51F001E8EE2 /* GA_Objective_C_Project */,
+				C45BB44C170DC52E001E8EE2 /* Assignments */,
+				C45BB450170DC5D6001E8EE2 /* CustomClass */,
+				C45BB460170DC7D4001E8EE2 /* ControlFlow */,
+				C45BB466170DC853001E8EE2 /* Dictionaries */,
+				C45BB472170DC985001E8EE2 /* Objects */,
+				C45BB46C170DC8E3001E8EE2 /* Methods */,
+				C45BB478170DCA11001E8EE2 /* Primitives */,
 				C45BB428170DC51F001E8EE2 /* Frameworks */,
 				C45BB427170DC51F001E8EE2 /* Products */,
 			);
@@ -105,6 +151,86 @@
 				C45BB43F170DC51F001E8EE2 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C45BB44C170DC52E001E8EE2 /* Assignments */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB44D170DC563001E8EE2 /* Assignments.h */,
+				C45BB44E170DC563001E8EE2 /* Assignments.m */,
+			);
+			name = Assignments;
+			path = GA_Objective_C_Project;
+			sourceTree = "<group>";
+		};
+		C45BB450170DC5D6001E8EE2 /* CustomClass */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB451170DC5FE001E8EE2 /* CustomClassViewController.h */,
+				C45BB452170DC5FE001E8EE2 /* CustomClassViewController.m */,
+				C45BB453170DC5FE001E8EE2 /* CustomClassViewController.xib */,
+				C45BB45A170DC750001E8EE2 /* Bird.h */,
+				C45BB45B170DC751001E8EE2 /* Bird.m */,
+				C45BB45D170DC775001E8EE2 /* Car.h */,
+				C45BB45E170DC775001E8EE2 /* Car.m */,
+			);
+			name = CustomClass;
+			path = GA_Objective_C_Project;
+			sourceTree = "<group>";
+		};
+		C45BB460170DC7D4001E8EE2 /* ControlFlow */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB461170DC823001E8EE2 /* ControlFlowViewController.h */,
+				C45BB462170DC823001E8EE2 /* ControlFlowViewController.m */,
+				C45BB463170DC823001E8EE2 /* ControlFlowViewController.xib */,
+			);
+			name = ControlFlow;
+			path = GA_Objective_C_Project;
+			sourceTree = "<group>";
+		};
+		C45BB466170DC853001E8EE2 /* Dictionaries */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB467170DC875001E8EE2 /* DictionariesViewController.h */,
+				C45BB468170DC875001E8EE2 /* DictionariesViewController.m */,
+				C45BB469170DC875001E8EE2 /* DictionariesViewController.xib */,
+			);
+			name = Dictionaries;
+			path = GA_Objective_C_Project;
+			sourceTree = "<group>";
+		};
+		C45BB46C170DC8E3001E8EE2 /* Methods */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB46D170DC958001E8EE2 /* MethodsViewController.h */,
+				C45BB46E170DC958001E8EE2 /* MethodsViewController.m */,
+				C45BB46F170DC958001E8EE2 /* MethodsViewController.xib */,
+			);
+			name = Methods;
+			path = GA_Objective_C_Project;
+			sourceTree = "<group>";
+		};
+		C45BB472170DC985001E8EE2 /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB473170DC9C1001E8EE2 /* ObjectsViewController.h */,
+				C45BB474170DC9C1001E8EE2 /* ObjectsViewController.m */,
+				C45BB475170DC9C1001E8EE2 /* ObjectsViewController.xib */,
+			);
+			name = Objects;
+			path = GA_Objective_C_Project;
+			sourceTree = "<group>";
+		};
+		C45BB478170DCA11001E8EE2 /* Primitives */ = {
+			isa = PBXGroup;
+			children = (
+				C45BB479170DCA39001E8EE2 /* PrimitivesViewController.h */,
+				C45BB47A170DCA39001E8EE2 /* PrimitivesViewController.m */,
+				C45BB47B170DCA39001E8EE2 /* PrimitivesViewController.xib */,
+			);
+			name = Primitives;
+			path = GA_Objective_C_Project;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +289,12 @@
 				C45BB43E170DC51F001E8EE2 /* Default@2x.png in Resources */,
 				C45BB440170DC51F001E8EE2 /* Default-568h@2x.png in Resources */,
 				C45BB446170DC51F001E8EE2 /* ViewController.xib in Resources */,
+				C45BB455170DC5FE001E8EE2 /* CustomClassViewController.xib in Resources */,
+				C45BB465170DC823001E8EE2 /* ControlFlowViewController.xib in Resources */,
+				C45BB46B170DC875001E8EE2 /* DictionariesViewController.xib in Resources */,
+				C45BB471170DC958001E8EE2 /* MethodsViewController.xib in Resources */,
+				C45BB477170DC9C1001E8EE2 /* ObjectsViewController.xib in Resources */,
+				C45BB47D170DCA39001E8EE2 /* PrimitivesViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +308,15 @@
 				C45BB436170DC51F001E8EE2 /* main.m in Sources */,
 				C45BB43A170DC51F001E8EE2 /* AppDelegate.m in Sources */,
 				C45BB443170DC51F001E8EE2 /* ViewController.m in Sources */,
+				C45BB44F170DC563001E8EE2 /* Assignments.m in Sources */,
+				C45BB454170DC5FE001E8EE2 /* CustomClassViewController.m in Sources */,
+				C45BB45C170DC751001E8EE2 /* Bird.m in Sources */,
+				C45BB45F170DC775001E8EE2 /* Car.m in Sources */,
+				C45BB464170DC823001E8EE2 /* ControlFlowViewController.m in Sources */,
+				C45BB46A170DC875001E8EE2 /* DictionariesViewController.m in Sources */,
+				C45BB470170DC958001E8EE2 /* MethodsViewController.m in Sources */,
+				C45BB476170DC9C1001E8EE2 /* ObjectsViewController.m in Sources */,
+				C45BB47C170DCA39001E8EE2 /* PrimitivesViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
