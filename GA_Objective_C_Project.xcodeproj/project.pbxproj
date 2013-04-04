@@ -96,13 +96,13 @@
 			isa = PBXGroup;
 			children = (
 				C45BB42F170DC51F001E8EE2 /* GA_Objective_C_Project */,
-				C45BB44C170DC52E001E8EE2 /* Assignments */,
-				C45BB450170DC5D6001E8EE2 /* CustomClass */,
-				C45BB460170DC7D4001E8EE2 /* ControlFlow */,
-				C45BB466170DC853001E8EE2 /* Dictionaries */,
-				C45BB472170DC985001E8EE2 /* Objects */,
-				C45BB46C170DC8E3001E8EE2 /* Methods */,
 				C45BB478170DCA11001E8EE2 /* Primitives */,
+				C45BB46C170DC8E3001E8EE2 /* Methods */,
+				C45BB460170DC7D4001E8EE2 /* ControlFlow */,
+				C45BB472170DC985001E8EE2 /* Objects */,
+				C45BB450170DC5D6001E8EE2 /* CustomClass */,
+				C45BB466170DC853001E8EE2 /* Dictionaries */,
+				C45BB44C170DC52E001E8EE2 /* Assignments */,
 				C45BB428170DC51F001E8EE2 /* Frameworks */,
 				C45BB427170DC51F001E8EE2 /* Products */,
 			);

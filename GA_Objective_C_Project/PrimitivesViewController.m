@@ -35,7 +35,6 @@
      
      */
     
-    
     /* printing
      
      We can print the value of a primitive type or the string repersentation of an object using the following syntax:
@@ -63,7 +62,6 @@
      
      */
     
-    
     NSLog(@"viewDidLoad is being called");
     NSLog(@"second statement");
     
@@ -77,6 +75,12 @@
     
     //why is the compiler throwing an error?
     
+    /*
+     
+     Floats - numbers with decmils are repersented by floats.
+     
+     */
+    
     
     float y = 3.1415;
     NSLog(@"y: %f",y);
@@ -86,6 +90,18 @@
     
     int i = x + y;
     NSLog(@"i: %i",i);
+    
+    /*
+     
+     Variables names - must begin with a letter or underscore and they can be followed by any combination of letters (uppercase or lower case), underscores or digits.
+     
+     Invalid variable names
+     
+     sum$value $ - is not valid
+     3Spencer - Names cannot start with a number
+     int - This is a reserved word.
+     
+     */
     
     //invalid names
     
